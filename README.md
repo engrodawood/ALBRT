@@ -6,3 +6,4 @@ Cellular composition prediction, i.e., predicting the presence and counts of dif
 
 # Proposed Model for cellular composition prediction
 
+<img src="Block Diagram.png" alt="Block Diagram"/>
