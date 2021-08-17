@@ -6,6 +6,8 @@ Cellular composition prediction, i.e., predicting the presence and counts of dif
 # Dataset
 For model training and validation <a href = "https://jgamper.github.io/PanNukeDataset/"> PanNuke </a> dataset was used.
 
+The pretrained weights for all three folds of PanNuke dataset can be downloaded from <a href="https://drive.google.com/drive/folders/1xivmqemiUTvbCS8NlItk7o_yGvIrl01B">Here</a>
+
 For assessing model generalization, <a href = "https://drive.google.com/drive/folders/1eGlF9Dgu3WMEik4fqj0wJ13LKVufsfZ0?usp=sharing" >NuCLS dataset </a> consisting of 1, 744 field of views (FOVs) partitioned into 5 pre-defined train and validation folds was used.
 
 # Proposed Model for cellular composition prediction
