@@ -23,5 +23,5 @@ Comparison of ALBRT and HoVer-Net prediction with ground truth for a set of test
 ## Saliency Map Analysis
 <img src="Saliency_maps.png" alt = "Test Prediction"/>
 
-## ALBRT captures interclass and intraclass cel-lular variability
+## ALBRT captures interclass and intraclass cellular variability
 <img src="umap_up.png" alt = "UMAP"/>
