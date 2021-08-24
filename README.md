@@ -25,3 +25,7 @@ Comparison of ALBRT and HoVer-Net prediction with ground truth for a set of test
 
 ## ALBRT captures interclass and intraclass cellular variability
 <img src="umap_up.png" alt = "UMAP"/>
+
+# License
+
+Note that the PanNuke dataset is licensed under <a href = "https://creativecommons.org/licenses/by-nc-sa/4.0/"> Attribution-NonCommercial-ShareAlike 4.0 International </a>, therefore ALBRT weights are also under the same license. The source code of ALBRT is released under MIT-CC-Non-Commercial license. 
